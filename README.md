@@ -6,11 +6,11 @@ Reinitialized existing Git repository in /home/sverma/code_pcde/.git/
 sverma@DOH-DHNX273:~/code_pcde$ git add .
 sverma@DOH-DHNX273:~/code_pcde$ git commit -m "first commit"
 [master (root-commit) 604ab3d] first commit
- 4 files changed, 10 insertions(+)
- create mode 160000 PCDE-Activity-9.1
- create mode 100644 README.md
- create mode 100644 test3
- create mode 100644 test3.pub
+4 files changed, 10 insertions(+)
+create mode 160000 PCDE-Activity-9.1
+create mode 100644 README.md
+create mode 100644 test3
+create mode 100644 test3.pub
 sverma@DOH-DHNX273:~/code_pcde$ git branch -M main
 sverma@DOH-DHNX273:~/code_pcde$ git remote add origin git@github.com:shivkumarcdri/GitHubMiniLesson.git
 sverma@DOH-DHNX273:~/code_pcde$ git push -u origin main
